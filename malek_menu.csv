@@ -1,0 +1,57 @@
+Category,Name (English),Name (Arabic),Description,Size,Price (LL)
+Sandwiches,Tawouk,طاووق,"Marinated chicken breast, garlic, coleslaw, fries, pickles & ketchup",Regular,295000
+Sandwiches,Tawouk,طاووق,"Marinated chicken breast, garlic, coleslaw, fries, pickles & ketchup",Large,500000
+Sandwiches,Cheese Tawouk,طاووق جبنة,"Marinated chicken breast, cheese, garlic, coleslaw, fries, pickles & ketchup",Regular,430000
+Sandwiches,Cheese Tawouk,طاووق جبنة,"Marinated chicken breast, cheese, garlic, coleslaw, fries, pickles & ketchup",Large,565000
+Sandwiches,Special Tawouk,طاووق خاص,"Marinated chicken breast, cheese, turkey, garlic, coleslaw, fries, pickles & ketchup",Regular,450000
+Sandwiches,Special Tawouk,طاووق خاص,"Marinated chicken breast, cheese, turkey, garlic, coleslaw, fries, pickles & ketchup",Large,650000
+Sandwiches,Chicken Liver,كبدة دجاج,"Chicken liver, garlic, tomato, pickles & fries",Regular,270000
+Sandwiches,Chicken Liver,كبدة دجاج,"Chicken liver, garlic, tomato, pickles & fries",Large,415000
+Sandwiches,Soujouk,سجق,"Soujouk sausages, tomato, mayo and pickles",Regular,300000
+Sandwiches,Soujouk,سجق,"Soujouk sausages, tomato, mayo and pickles",Large,445000
+Sandwiches,Escalope,إسكالوب,"Crispy chicken, garlic mayo, iceberg, tomato & pickles",Regular,415000
+Sandwiches,Cheese & Turkey,جبنة و حبش,"Tomato, ketchup, Coleslaw, Fries, Pickles, Cheese, Turkey",Regular,430000
+Sandwiches,Fries Sandwich,سندويش بطاطا,"Fries, coleslaw, garlic, pickles & ketchup",Regular,170000
+Sandwiches,Fries Sandwich,سندويش بطاطا,"Fries, coleslaw, garlic, pickles & ketchup",Large,210000
+Burgers Lebnene,Beef Burger,برغر لحمة,"Grilled beef burger patty, tomato, grilled onions, coleslaw, fries & ketchup",Regular,425000
+Burgers Lebnene,Chicken Burger,برغر دجاج,"Grilled chicken breast, garlic mayo, tomato, grilled onions, lettuce, fries & pickles",Regular,425000
+Burgers Lebnene,Special Burger,برغر خاص,"Grilled beef burger patty, cheese, turkey, tomato, grilled onions, coleslaw fries & ketchup",Regular,485000
+Burgers Lebnene,Special Chicken Burger,برغر دجاج خاص,"Grilled chicken breast, cheese, turkey, garlic mayo, tomato, grilled onions, lettuce, fries and pickles",Regular,485000
+Burgers Lebnene,Burger Extra Kbir,برغر كبير إضافي,"Two grilled beef burger patties, cheese, turkey, tomato, grilled onions, coleslaw, fries & ketchup",Regular,835000
+Burgers Lebnene,Chicken Burger Extra Kbir,برغر دجاج كبير إضافي,"Two grilled chicken breasts, cheese, turkey, garlic mayo, tomato, grilled onions, lettuce, fries and pickles",Regular,835000
+Burgers Lebnene,Tawouk Burger,برغر طاووق,"Marinated chicken breast, cheddar, garlic, grilled onions, coleslaw, fries, pickles & ketchup",Regular,450000
+Burgers Al Ajaneb,Juan Al Ghoul Beef,خوان الغول لحمة,"Beef Patty, mexican sauce, cheddar cheese, fresh onions, grilled green peppers, lettuce & tomato",Regular,465000
+Burgers Al Ajaneb,Juan Al Ghoul Chicken,خوان الغول دجاج,"Chicken breast, mexican sauce, cheddar cheese, fresh onions, grilled green peppers, lettuce & tomato",Regular,465000
+Burgers Al Ajaneb,Rou2 Ya Clint Beef,روعة كلينت لحمة,"Beef Patty, barbecue sauce, cheddar cheese, grilled mushrooms, fresh onions & grilled green peppers",Regular,465000
+Burgers Al Ajaneb,Rou2 Ya Clint Chicken,روعة كلينت دجاج,"Chicken breast, barbecue sauce, cheddar cheese, grilled mushrooms, fresh onions & grilled green peppers",Regular,465000
+Burgers Al Ajaneb,Crispy Again,كريسبي again,"Fried breaded chicken breast, garlic mayo, cheddar cheese, lettuce, pickles & tomato",Regular,465000
+Burgers Al Ajaneb,Cheesy 3azizi Beef,تشيزي عزيزي لحمة,"Beef patty, cheddar cheese, fresh onions, mayo, ketchup, lettuce, pickles & tomato",Regular,465000
+Burgers Al Ajaneb,Cheesy 3azizi Chicken,تشيزي عزيزي دجاج,"Chicken breast, cheddar cheese, fresh onions, mayo, ketchup, lettuce, pickles & tomato",Regular,465000
+Jil El Franje,Tawouk W Bass,طاووق وبس,"Tawouk, Garlic, Pickles, Franje",Regular,350000
+Jil El Franje,Tawouk Chalfatni,طاووق شلفطني,"Tawouk, Mexican sauce, Pickles, Iceberg",Regular,350000
+Jil El Franje,Tawouk 3ajabni,طاووق عجبني,"Tawouk, Mayo, BBQ sauce franje, Pickles, Iceberg, Cheddar",Regular,380000
+Jil El Franje,Liver Franje,كبدة فرنجة,"Cooked liver, Garlic, Pickles, Tomato, Mint",Regular,330000
+Jil El Franje,Makanek Franje,مقانق فرنجة,"Makanek",Regular,330000
+Jil El Franje,Soujouk Franje,سجق فرنجة,"Soujouk, Mayo, Pickles, Tomato",Regular,330000
+Jil El Franje,Frankfurter- improved recipe,فرانكفورتر,"Frankfurter, coleslaw, mustard, and ketchup",Regular,380000
+Platters,Tawouk Platter for Two,صحن طاووق لشخصين,"Marinated chicken breast, garlic, coleslaw, fries, pickles & ketchup",Regular,880000
+Platters,Tawouk Plate for One,صحن طاووق لشخص واحد,"Marinated chicken breast, garlic, coleslaw, fries, pickles & ketchup",Regular,710000
+Platters,Chicken Liver Platter,صحن كبدة دجاج,"Chicken liver, garlic, tomato, fries and pickles",Regular,670000
+Platters,Soujouk Plate,صحن سجق,"Soujouk, mayo, tomato, fries & pickles",Regular,700000
+Platters,Beef Burger Platter,صحن برغر لحمة,"Two grilled beef burger patties, tomato, onion & ketchup, served with fries & coleslaw",Regular,850000
+Platters,Chicken Burger Platter,صحن برغر دجاج,"Two grilled chicken breasts, garlic mayo, tomato, lettuce & pickles served with fries & coleslaw",Regular,850000
+Platters,Special Beef Burger Platter,صحن برغر لحمة خاص,"Two grilled beef burger patties, cheese, turkey, tomato, onions & ketchup served with fries & coleslaw",Regular,965000
+Platters,Special Chicken Burger Platter,صحن برغر دجاج خاص,"Two grilled chicken breasts, cheese, turkey, garlic mayo, tomato, onions, lettuce, fries & pickles",Regular,965000
+Platters,Soujouk Plate Di,صحن سجق دي,"Soujouk Plate Di",Regular,700000
+Platters,Tawouk Breaded,طاووق بريدد,"10 pieces of breaded tawouk served with honey mustard dip on the side",Regular,340000
+Salads,Fattouch,فتوش,"Served with lemon, olive oil, vinegar & pomegranate molasses",Regular,180000
+Salads,Coleslaw,كولسلو,"Coleslaw",Regular,130000
+Add-ons,Corn,ذرة,"Corn",Regular,25000
+Add-ons,French Fries,بطاطا مقلية,"French Fries",Regular,275000
+Sauces,Honey Mustard Sauce,صوص هني مسترد,"Honey Mustard Sauce",Regular,25000
+Sauces,Hommos,حمص,"Hommos",Regular,15000
+Sauces,Garlic,توم صغير,"Garlic",Regular,20000
+Sauces,Garlic,توم كبير,"Garlic",Large,100000
+Sauces,Barbecue Sauce,صوص باربيكيو,"Barbecue Sauce",Regular,20000
+Sauces,Mexican Sauce,صوص مكسيكي,"Mexican Sauce",Regular,20000
+Sauces,Garlic Mayo,توم مايو,"Garlic Mayo",Regular,20000
